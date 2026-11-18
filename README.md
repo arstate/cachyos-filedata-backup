@@ -54,13 +54,13 @@ Laporkan total ukuran dan direktori hasil ekstrak di akhir eksekusi.
 | No | Nama Folder | File ZIP Cloud | Ukuran Asli | Ukuran ZIP | Status |
 |:---:|---|---|---:|---:|:---:|
 | 1 | `WEBSITE` | `WEBSITE.zip` | 1.9 GB | **29.1 MB** | ✅ Uploaded |
-| 2 | `AI AGENT SKILLS` | `AI_AGENT_SKILLS.zip` | 504 MB | **476.0 MB** | ⏳ Uploading |
-| 3 | `MATKUL KULIAH` | `MATKUL_KULIAH.zip` | 622 MB | **605.1 MB** | ⏳ Uploading |
-| 4 | `FOTO` | `FOTO.zip` | 2.1 GB | **2,046.3 MB** | ⏳ Uploading |
-| 5 | `TOOLS` | `TOOLS.zip` | 3.6 GB | **2,649.2 MB** | ⏳ Uploading |
-| 6 | `ADOBE STOCK` | `ADOBE_STOCK.zip` | 4.6 GB | **4,600.4 MB** | ⏳ Uploading |
-| 7 | `DJADI CREATIVE` | `DJADI_CREATIVE.zip` | 19.0 GB | **10,029.3 MB** | ⏳ Uploading |
-| 8 | `TIAR.PROPERTY` | `TIAR_PROPERTY.zip` | 31.0 GB | **25,009.2 MB** | ⏳ Uploading |
+| 2 | `AI AGENT SKILLS` | `AI_AGENT_SKILLS.zip` | 504 MB | **476.0 MB** | ✅ Uploaded |
+| 3 | `MATKUL KULIAH` | `MATKUL_KULIAH.zip` | 622 MB | **605.1 MB** | ✅ Uploaded |
+| 4 | `FOTO` | `FOTO.zip` | 2.1 GB | **2,046.3 MB** | ✅ Uploaded |
+| 5 | `TOOLS` | `TOOLS.zip` | 3.6 GB | **2,649.2 MB** | ✅ Uploaded |
+| 6 | `ADOBE STOCK` | `ADOBE_STOCK.zip` | 4.6 GB | **4,600.4 MB** | ✅ Uploaded |
+| 7 | `DJADI CREATIVE` | `DJADI_CREATIVE.zip` | 19.0 GB | **10,029.3 MB** | ✅ Uploaded |
+| 8 | `TIAR.PROPERTY` | `TIAR_PROPERTY.zip` | 31.0 GB | **25,009.2 MB** | ✅ Uploaded |
 
 > *Catatan: Folder `node_modules` dan `.cache` secara sengaja di-exclude dari semua arsip zip sehingga ukuran jauh lebih ramping dan bersih dari junk.*
 
